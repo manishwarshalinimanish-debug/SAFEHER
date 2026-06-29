@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Protective Shield Background Layer -->
+    <path
+        android:fillColor="#FFDEE9"
+        android:pathData="M54,18 L84,27 L84,58 C84,77.5 54,88 54,88 C54,88 24,77.5 24,58 L24,27 Z" />
+        
+    <!-- Shield Inner Contrast Outline -->
+    <path
+        android:strokeColor="#FF2E93"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,23 L79,30.5 L79,58 C79,74 54,82.5 54,82.5 C54,82.5 29,74 29,58 L29,30.5 Z" />
+
+    <!-- Core Reassuring Emblem (Heart and Safety Cross combined) -->
+    <path
+        android:fillColor="#FF2E93"
+        android:pathData="M54,62 L51.2,59.3 C41.2,50.3 36.5,46 36.5,40.5 C36.5,36 40,32.5 44.5,32.5 C47,32.5 49.5,33.7 51,35.6 C52.5,33.7 55,32.5 57.5,32.5 C62,32.5 65.5,36 65.5,40.5 C65.5,46 60.8,50.3 50.8,59.3 Z" />
+</vector>

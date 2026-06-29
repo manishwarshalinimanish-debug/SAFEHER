@@ -1,0 +1,6 @@
+{
+  "name": "Women Safety",
+  "description": "An advanced safety application featuring shake-to-activate SOS alerts, real-time location tracking, emergency contact notifications, and an integrated messenger for safe communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
